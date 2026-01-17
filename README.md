@@ -1,6 +1,6 @@
-# Cellular Baseband Availability Flaw
+# Buffer Overflow in Qualcomm Snapdragon X65 Baseband
 
-### A Connectivity Vulnerability Affecting Millions of Devices
+### Satellite Modem Trigger with Remote Attack Surface
 
 
 **Technical details:** Available in the attached vulnerability report
