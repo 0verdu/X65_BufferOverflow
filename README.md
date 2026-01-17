@@ -1,6 +1,6 @@
-# Phone Home Flaw
+# Cellular Baseband Availability Flaw
 
-### A Critical Connectivity Vulnerability Affecting Millions of Devices
+### A Connectivity Vulnerability Affecting Millions of Devices
 
 
 **Technical details:** Available in the attached vulnerability report
@@ -25,7 +25,7 @@ The Phone Home Flaw is a defect in how that chip handles certain internal messag
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                     ATTACK FLOW                              │
+│                     EVENT FLOW                              │
 └─────────────────────────────────────────────────────────────┘
 
     Malicious Signal               Vulnerable Chip          Device Impact
